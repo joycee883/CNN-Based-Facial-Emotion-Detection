@@ -6,7 +6,7 @@ This innovative project transforms facial images into emotion classifiers by app
 
 ## 🛠️ Key Features ✨ <br>
 1. 📊 Data Preprocessing 📸 <br>
-  **Data Loading: Automatically loads and labels facial images from Google Drive using ImageDataGenerator. 📂 <br>
+  * Data Loading: Automatically loads and labels facial images from Google Drive using ImageDataGenerator. 📂 <br>
   **Image Scaling: Rescales pixel values for consistency and optimal model performance. 📏 <br>
   ** Standardized Images: Images are resized to 200x200 pixels for consistent input. 🖼️ <br>
 2. 🔧 Model Architecture 🧑‍💻 <br>
